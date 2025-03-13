@@ -625,6 +625,7 @@ In case of questions, please write to:
         - [Zach Oakes: Dynamic Money Management (BA)](https://blog.quantinsti.com/dynamic-money-management/)
         - [QuantInsti: Risk Management: Maximizing long-term growth by Marco Nicolás Dibo (RV)](https://www.youtube.com/watch?v=kt1jSw9BDt0)
         - [Quantpedia: Position Sizing in Trading (Quantra)](https://quantra.quantinsti.com/course/position-sizing-trading)
+        - [José Carlos Gonzáles Tanaka: The Risk-Constrained Kelly Criterion: From the foundations to trading (BA)](https://blog.quantinsti.com/risk-constrained-kelly-criterion/)
         - [Ernest Chan: How to use ML to detect crisis in the markets and for Risk Management? Dr. Ernest Chan answers (RV)](https://youtu.be/7v1hWekF_8o?si=Zk4SOrY_LVTvCdCk)
         - [Marco Nicolás Dibo: Risk Management: Maximizing long-term growth by Marco Nicolás Dibo (RV)](https://youtu.be/kt1jSw9BDt0?si=-q0fCAxAf0loshkO)
         - [Rajib Borah: Changing Notions of Risk Management in Current Markets (RV)](https://youtu.be/uzAhV94UiF8?si=-xrUv6Nk_HhUBssL)
