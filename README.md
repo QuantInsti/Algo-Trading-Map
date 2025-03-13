@@ -490,6 +490,7 @@ In case of questions, please write to:
             - [Lamarcus Coleman: Polynomial Regression: Adding Non-Linearity To A Linear Model (BA)](https://blog.quantinsti.com/polynomial-regression-adding-non-linearity-to-a-linear-model/)
             - [Chainika Thakar: Artificial Intelligence & Machine Learning in Trading (BA)](https://blog.quantinsti.com/artificial-intelligence-machine-learning-trading/)
             - [Chainika Thakar: Trading using LLM: Generative AI & Sentiment Analysis in Finance (BA)](https://blog.quantinsti.com/trading-using-llm/)
+            - [Rekhit Pachanekar: DBSCAN Vs K-Means (BA)](https://blog.quantinsti.com/dbscan-vs-kmeans/)
         5. Quantitative Finance <a id='quant_finance'></a>
             - [Mahavir A. Bhattacharya: Laying the Groundwork for Ito's Lemma and Financial Stochastic Models (BA)](https://blog.quantinsti.com/itos-lemma-trading-concepts-guide/)
             - [Mahavir A. Bhattacharya: Ito's Lemma Applied to Stock Trading (BA)](https://blog.quantinsti.com/itos-lemma-applied-stock-trading/)
