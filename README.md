@@ -320,7 +320,7 @@ In case of questions, please write to:
             - DMP-02 (EPAT)
             - [Rolf Schlotmann and Moritz Czubatinski: Trading: Technical Analysis MasterClass (TB)](https://www.amazon.com/-/es/Trading-Technical-Analysis-Masterclass-financial/dp/1795471859/)
             - [A.Z Penn et al.: Technical Analysis for Beginners (TB)](https://www.amazon.com/-/es/dp/B09F8CRM35/)
-            - [Ishan Shah and Rekhit Pachanekar: Installation of Ta-Lib in Python: A Complete Guide for all Platforms (BA)](https://blog.quantinsti.com/install-ta-lib-python/)
+            - [Ishan Shah, Rekhit Pachanekar and Gaurav Singh: Installation of Ta-Lib in Python (BA)](https://blog.quantinsti.com/install-ta-lib-python/)
             - [Chainika Thakar and Kevin Patrao: Price Action Trading: Strategies, Algo Trading and Python (BA)](https://blog.quantinsti.com/price-action-trading/)
             - [Chainika Thakar and Vibhu Singh: Parabolic SAR: Formula, Calculation, and Python Code (BA)](https://blog.quantinsti.com/parabolic-sar/)
             - [Rekhit Pachanekar: RSI Indicator: Stocks, Formula, Calculation and Strategies (BA)](https://blog.quantinsti.com/rsi-indicator/)
