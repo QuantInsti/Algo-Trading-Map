@@ -93,6 +93,7 @@ In case of questions, please write to:
         3. [Pairs Trading](#pairs_trading)
         4. [Machine Learning](#machine_learning)
         5. [Quantitative Finance](#quant_finance)
+        6. [Large Language Models (LLM)](#llm)
     5. [Options](#options)
     6. [Futures](#futures)
     7. [High-Frequency Trading](#high_frequency_trading)
@@ -492,6 +493,8 @@ In case of questions, please write to:
         5. Quantitative Finance <a id='quant_finance'></a>
             - [Mahavir A. Bhattacharya: Laying the Groundwork for Ito's Lemma and Financial Stochastic Models (BA)](https://blog.quantinsti.com/itos-lemma-trading-concepts-guide/)
             - [Mahavir A. Bhattacharya: Ito's Lemma Applied to Stock Trading (BA)](https://blog.quantinsti.com/itos-lemma-applied-stock-trading/)
+        6. Large Language Models <a id='llm'></a>
+            - [Manusha Rao: LangChain for Equity Investment Analysis (BA)](https://blog.quantinsti.com/langchain-trading-stock-analysis-llm-financial-python/)
     5. Options <a id='options'></a>
         - [Euan Sinclair: Option Trading: Pricing and Volatility Strategies and Techniques (TB)](https://www.amazon.com/-/es/Option-Trading-Volatility-Strategies-Techniques/dp/0470497106/)
         - [Euan Sinclair: Volatility Trading (TB)](https://www.amazon.com/-/es/Euan-Sinclair/dp/1118347137/)
