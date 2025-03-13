@@ -637,7 +637,7 @@ In case of questions, please write to:
         - [Ernest Chan: How to use ML to detect crisis in the markets and for Risk Management? Dr. Ernest Chan answers (RV)](https://youtu.be/7v1hWekF_8o?si=Zk4SOrY_LVTvCdCk)
         - [Marco Nicolás Dibo: Risk Management: Maximizing long-term growth by Marco Nicolás Dibo (RV)](https://youtu.be/kt1jSw9BDt0?si=-q0fCAxAf0loshkO)
         - [Rajib Borah: Changing Notions of Risk Management in Current Markets (RV)](https://youtu.be/uzAhV94UiF8?si=-xrUv6Nk_HhUBssL)
-        - [Tostne Kutalia: Value at Risk (VaR) Calculation in Excel and Python (BA)](https://blog.quantinsti.com/calculating-value-at-risk-in-excel-python/)
+        - [Tsotne Kutalia: Calculations of Value at Risk in Excel and Python (BA)](https://blog.quantinsti.com/calculating-value-at-risk-in-excel-python/)
         - [Chainika Thakar: Volatility And Measures Of Risk-Adjusted Return With Python (BA)](https://blog.quantinsti.com/volatility-and-measures-of-risk-adjusted-return-based-on-volatility/)
         - [Chainika Thakar: Unsystematic Risk: Guide to Causes, Types, Calculation, Examples, and How to Protect (BA)](https://blog.quantinsti.com/unsystematic-risk/)
         - [Chainika Thaka, Apoorva Singh and Rekhit Pachanekar: Sharpe Ratio: Calculation, Interpretation and Analysis (BA)](https://blog.quantinsti.com/sharpe-ratio-applications-algorithmic-trading/)
