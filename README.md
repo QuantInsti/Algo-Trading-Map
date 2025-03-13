@@ -552,6 +552,7 @@ In case of questions, please write to:
         - [Chainika Thakar: Mastering Swaptions: A Comprehensive Guide (BA)](https://blog.quantinsti.com/swaption/)
         - [Milind Paradkar: Long Call Butterfly Strategy on Python (BA)](https://blog.quantinsti.com/long-call-butterfly-strategy-python/)
         - [Devang Singh: How To Model Volatility Smile In Python (BA)](https://blog.quantinsti.com/volatility-smile-origin-implications/)
+        - [Varun Pothula: Basic Guide to Trade Options Intraday: Strategies and Risk Management (BA)](https://blog.quantinsti.com/intraday-options-trading-strategies/)
     6. Futures <a id='futures'></a>
         - EFS-04 and 05 (EPAT)
         - [Robert Carver: Advanced Futures Trading Strategies (TB)](https://www.amazon.com/-/es/Advanced-Futures-Trading-Strategies-Robert/dp/0857199684/)
