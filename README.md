@@ -92,6 +92,7 @@ In case of questions, please write to:
         2. [Time Series Analysis](#time_series_analysis)
         3. [Pairs Trading](#pairs_trading)
         4. [Machine Learning](#machine_learning)
+        5. [Quantitative Finance](#quant_finance)
     5. [Options](#options)
     6. [Futures](#futures)
     7. [High-Frequency Trading](#high_frequency_trading)
@@ -488,6 +489,7 @@ In case of questions, please write to:
             - [Lamarcus Coleman: Polynomial Regression: Adding Non-Linearity To A Linear Model (BA)](https://blog.quantinsti.com/polynomial-regression-adding-non-linearity-to-a-linear-model/)
             - [Chainika Thakar: Artificial Intelligence & Machine Learning in Trading (BA)](https://blog.quantinsti.com/artificial-intelligence-machine-learning-trading/)
             - [Chainika Thakar: Trading using LLM: Generative AI & Sentiment Analysis in Finance (BA)](https://blog.quantinsti.com/trading-using-llm/)
+        5. Quantitative Finance <a id='quant_finance'></a>
     5. Options <a id='options'></a>
         - [Euan Sinclair: Option Trading: Pricing and Volatility Strategies and Techniques (TB)](https://www.amazon.com/-/es/Option-Trading-Volatility-Strategies-Techniques/dp/0470497106/)
         - [Euan Sinclair: Volatility Trading (TB)](https://www.amazon.com/-/es/Euan-Sinclair/dp/1118347137/)
