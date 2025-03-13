@@ -696,6 +696,7 @@ In case of questions, please write to:
             - [Danish Khajuria: Pandas OHLC: Convert tick by tick data to OHLC data (BA)](https://blog.quantinsti.com/tick-tick-ohlc-data-pandas-tutorial/)
             - [Suleyman Emre Yesil: Backtrader: What it is, How to Install, Strategies, Trading and More (BA)](https://blog.quantinsti.com/backtrader/)
             - [Ishan Shah, Rekhit Pachanekar and Gaurav Singh: Installation of Ta-Lib in Python: A Complete Guide for all Platforms (BA)](https://blog.quantinsti.com/install-ta-lib-python/)
+            - [José Carlos Gonzáles Tanaka: The TGAN Algorithm for Trading (BA)](https://blog.quantinsti.com/tgan-algorithm-generate-synthetic-data-backtesting-trading-strategies/)
         2. Platform-Based Backtesting <a id='Platform-based Backtesting'></a>
             - TBP-03 (EPAT)
             - TBP-04 and 05 (EPAT)
