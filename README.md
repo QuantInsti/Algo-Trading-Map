@@ -490,6 +490,7 @@ In case of questions, please write to:
             - [Chainika Thakar: Artificial Intelligence & Machine Learning in Trading (BA)](https://blog.quantinsti.com/artificial-intelligence-machine-learning-trading/)
             - [Chainika Thakar: Trading using LLM: Generative AI & Sentiment Analysis in Finance (BA)](https://blog.quantinsti.com/trading-using-llm/)
         5. Quantitative Finance <a id='quant_finance'></a>
+            - [Mahavir A. Bhattacharya: Laying the Groundwork for Ito's Lemma and Financial Stochastic Models (BA)](https://blog.quantinsti.com/itos-lemma-trading-concepts-guide/)
     5. Options <a id='options'></a>
         - [Euan Sinclair: Option Trading: Pricing and Volatility Strategies and Techniques (TB)](https://www.amazon.com/-/es/Option-Trading-Volatility-Strategies-Techniques/dp/0470497106/)
         - [Euan Sinclair: Volatility Trading (TB)](https://www.amazon.com/-/es/Euan-Sinclair/dp/1118347137/)
