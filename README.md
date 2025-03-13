@@ -626,6 +626,7 @@ In case of questions, please write to:
         - [Benneth A. McDowell and Steve Nison: A Trader's Money Management System (TB)](https://www.amazon.com/-/es/Traders-Money-Management-System-Ensure/dp/0470187719/)
         - [Chainika Thakar: Risk Management in Trading: Everything that you should know (BA)](https://blog.quantinsti.com/trading-risk-management/)
         - [Tsotne Kutalia: Introduction To Value At Risk (BA)](https://blog.quantinsti.com/introduction-value-risk/)
+        - [Tsotne Kutalia: Expected Shortfall (ES) (BA)](https://blog.quantinsti.com/cvar-expected-shortfall/)
         - [Chainika Thakar: Changing notions of Risk Management in Automated Trading (BA)](https://blog.quantinsti.com/changing-trends-in-trading-risk-management/)
         - [Chainika Thakar: Unsystematic Risk: Guide to Causes, Types, Calculation, Examples, and How to Protect (BA)](https://blog.quantinsti.com/unsystematic-risk/)
         - [Rishabh Mittal: Position Sizing - Terms, Trading Biases, Techniques and More (BA)](https://blog.quantinsti.com/position-sizing/)
