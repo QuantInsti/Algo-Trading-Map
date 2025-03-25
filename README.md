@@ -244,6 +244,7 @@ In case of questions, please write to:
         - [José Carlos Gonzáles Tanaka: Download Cryptocurrency Data in Python by using Crypto Compare API (BA)](https://blog.quantinsti.com/download-cryptocurrency-data-python-cryptocompare-api/)
         - [José Carlos Gonzáles Tanaka: Download Futures Data with Yahoo Finance Library in Python (BA)](https://blog.quantinsti.com/download-futures-data-yahoo-finance-library-python/)
         - [QuantInsti: Getting Market Data: Stocks; Crypto; News & Fundamental (Quantra)](https://quantra.quantinsti.com/course/getting-market-data)
+        - [Manusha Rao: Historical Market Data Sources (BA)](https://blog.quantinsti.com/financial-market-data-providers/)
     2. Data Science <a id='data_science'></a>
         - [Kshitij Makwana: Why is data cleaning important and how to do it the right way? (BA)](https://blog.quantinsti.com/data-cleaning/)
         - [Chainika Thakar: Clean, Transform, Optimize: The Power of Data Preprocessing (BA)](https://blog.quantinsti.com/data-preprocessing/)
@@ -491,6 +492,7 @@ In case of questions, please write to:
             - [Chainika Thakar: Artificial Intelligence & Machine Learning in Trading (BA)](https://blog.quantinsti.com/artificial-intelligence-machine-learning-trading/)
             - [Chainika Thakar: Trading using LLM: Generative AI & Sentiment Analysis in Finance (BA)](https://blog.quantinsti.com/trading-using-llm/)
             - [Rekhit Pachanekar: DBSCAN Vs K-Means (BA)](https://blog.quantinsti.com/dbscan-vs-kmeans/)
+            - [José Carlos Gonzáles Tanaka: A novel drift detection algorithm for machine learning in trading (BA)](https://blog.quantinsti.com/autoregressive-drift-detection-method/)
         5. Quantitative Finance <a id='quant_finance'></a>
             - [Mahavir A. Bhattacharya: Laying the Groundwork for Ito's Lemma and Financial Stochastic Models (BA)](https://blog.quantinsti.com/itos-lemma-trading-concepts-guide/)
             - [Mahavir A. Bhattacharya: Ito's Lemma Applied to Stock Trading (BA)](https://blog.quantinsti.com/itos-lemma-applied-stock-trading/)
