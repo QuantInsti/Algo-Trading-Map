@@ -245,6 +245,7 @@ In case of questions, please write to:
         - [José Carlos Gonzáles Tanaka: Download Futures Data with Yahoo Finance Library in Python (BA)](https://blog.quantinsti.com/download-futures-data-yahoo-finance-library-python/)
         - [QuantInsti: Getting Market Data: Stocks; Crypto; News & Fundamental (Quantra)](https://quantra.quantinsti.com/course/getting-market-data)
         - [Manusha Rao: Historical Market Data Sources (BA)](https://blog.quantinsti.com/financial-market-data-providers/)
+        - [Rishikesh Mahadevan: Faster Downloads using Python Multithreading (BA)](https://blog.quantinsti.com/download-multiple-stocks-data-python-multithreading/)
     2. Data Science <a id='data_science'></a>
         - [Kshitij Makwana: Why is data cleaning important and how to do it the right way? (BA)](https://blog.quantinsti.com/data-cleaning/)
         - [Chainika Thakar: Clean, Transform, Optimize: The Power of Data Preprocessing (BA)](https://blog.quantinsti.com/data-preprocessing/)
