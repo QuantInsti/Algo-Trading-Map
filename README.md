@@ -339,6 +339,7 @@ In case of questions, please write to:
             - [Rekhit Pachanekar: RSI Indicator: Stocks, Formula, Calculation and Strategies (BA)](https://blog.quantinsti.com/rsi-indicator/)
             - [Chainika Thakar: Moving Average Trading Strategies: Triple Crossover, Ribbon, and Convergence Divergence Explained (BA)](https://blog.quantinsti.com/moving-average-trading-strategies/)
             - [José Carlos Gonzáles Tanaka: Directional Change in Trading: Indicators, Python Coding, and HMM Strategies (BA)](https://blog.quantinsti.com/directional-change-trading/)
+            - [Akshay Chaudhary: Five Indicators To Build Trend-Following Strategies (BA)](https://blog.quantinsti.com/indicators-build-trend-following-strategy/)
         2. Time Series Analysis <a id='time_series_analysis'></a>
             - [Damodar Gujarati: Econometrics by Example (TB)](https://www.amazon.com/-/es/DAMODAR-GUJARATI/dp/9354356117/)
             - [Jeffrey m. Wooldridge: Introductory Econometrics (TB)](https://www.amazon.com/-/es/Jeffrey-M-Wooldridge/dp/9355731078/)
