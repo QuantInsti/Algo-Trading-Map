@@ -665,6 +665,7 @@ In case of questions, please write to:
     - [Chainika Thakar and Varun Pothula: Types of Trading Strategies: Unraveling the Secrets of Strategic Trading (BA)](https://blog.quantinsti.com/types-of-trading-strategies/)
     - [Aiman Mulla: Top 10 Blogs on Algorithmic Trading | 2023 (BA)](https://blog.quantinsti.com/algorithmic-trading-top-blogs/)
     - [QuantInsti: Algorithmic Trading Workshop 2021 - Learn Algorading Basics in 3 Days (BA)](https://blog.quantinsti.com/algo-trading-webinars-2021/#full-algo-trading-course-learn-algorithmic-trading)
+    - [The Future of Trading is Quant: Nitesh Khandelwal on CNBC Arabia (BA)](https://www.quantinsti.com/articles/future-trading-quant-nitesh-khandelwal-cnbc-arabia/)
 6. Backtest Trading Strategies <a id='backtest_trading_strategies'></a>
     1. Excel-Based Backtesting <a id='excel_based_backtesting'></a>
         - SFM-01 (EPAT)
