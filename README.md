@@ -180,6 +180,7 @@ In case of questions, please write to:
         - [Chainika Thakar: Standard Deviation in Trading: Calculations, Use Cases, Examples and more (BA)](https://blog.quantinsti.com/standard-deviation/)
         - [Vivek Krishnamoorthy and Udisha Alok: Linear Regression: Assumptions and Limitations (BA)](https://blog.quantinsti.com/linear-regression-assumptions-limitations/)
         - [Aacashi Nawyndder, Vivek Krishnamoorthy and Udisha Alok: Beyond the Straight Line: Advanced Linear Regression Models for Financial Data (BA)](https://blog.quantinsti.com/advanced-regression-models-finance/)
+        - [Aacashi Nawyndder, Vivek Krishnamoorthy and Udisha Alok: From Logistic to Random Forests: Mastering Non-linear Regression Models (BA)](https://blog.quantinsti.com/types-regression-finance/)
         - [Chainika Thakar and Mandeep Kaur: All About Time Series: Analysis and Forecasting (BA)](https://blog.quantinsti.com/time-series-analysis/)
         - [Marek Capiński and Tomasz Zastawniak: Mathematics for Finance: An Introduction to Financial Engineering (TB)](https://www.amazon.com/Mathematics-Finance-Introduction-Engineering-Undergraduate/dp/0857290819)
         - [Dan Stefanica: A Primer For The Mathematics Of Financial Engineering (TB)](https://www.amazon.com/Mathematics-Financial-Engineering-Advanced-Background/dp/0979757622)
