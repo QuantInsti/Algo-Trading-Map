@@ -375,7 +375,7 @@ In case of questions, please write to:
             - [Quantra: What is Time Series? | Introduction to Time Series | Quantra Course (RV)](https://youtu.be/nInzJ8T6za0?si=1rcxupJKdw_JaOfa)
             - [Ernest Chan: What is the risk of overfitting a single asset Time Series? Dr. Ernest Chan answers (RV)](https://youtu.be/S5Qk8WJjehQ?si=x1My0zSVYfjORBJ6)
             - [Chainika Thakar and Devang Singh: Mean Reversion in Time Series: What it is and Trading Strategies (BA)](https://blog.quantinsti.com/mean-reversion-time-series/)
-            - [Manusha Rao: Modelling Asymmetric Volatility with the GJR-GARCH Framework](https://blog.quantinsti.com/garch-gjr-garch-volatility-forecasting-python/)
+            - [Manusha Rao: Modelling Asymmetric Volatility with the GJR-GARCH Framework (BA)](https://blog.quantinsti.com/garch-gjr-garch-volatility-forecasting-python/)
         3. Pairs Trading <a id='pairs_trading'></a>
             - EFS-03 (EPAT)
             - [Douglas S. Ehrman: The Handbook of Pairs Trading (TB)](https://www.amazon.com/-/es/Douglas-S-Ehrman/dp/0471727075/)
@@ -500,6 +500,7 @@ In case of questions, please write to:
             - [Rekhit Pachanekar: DBSCAN Vs K-Means (BA)](https://blog.quantinsti.com/dbscan-vs-kmeans/)
             - [José Carlos Gonzáles Tanaka: A novel drift detection algorithm for machine learning in trading (BA)](https://blog.quantinsti.com/autoregressive-drift-detection-method/)
             - [Mahavir Bhattacharya: Building Blocks of Bias-Variance Tradeoff for Trading the Financial Markets (BA)](https://blog.quantinsti.com/bias-variance-machine-learning-trading/)
+            - [Ishan Shah: Reinforcement Learning in Trading (BA)](https://blog.quantinsti.com/reinforcement-learning-trading/)
         5. Quantitative Finance <a id='quant_finance'></a>
             - [Mahavir A. Bhattacharya: Laying the Groundwork for Ito's Lemma and Financial Stochastic Models (BA)](https://blog.quantinsti.com/itos-lemma-trading-concepts-guide/)
             - [Mahavir A. Bhattacharya: Ito's Lemma Applied to Stock Trading (BA)](https://blog.quantinsti.com/itos-lemma-applied-stock-trading/)
