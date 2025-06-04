@@ -343,7 +343,6 @@ In case of questions, please write to:
             - [José Carlos Gonzáles Tanaka: Directional Change in Trading: Indicators, Python Coding, and HMM Strategies (BA)](https://blog.quantinsti.com/directional-change-trading/)
             - [Akshay Chaudhary: Five Indicators To Build Trend-Following Strategies (BA)](https://blog.quantinsti.com/indicators-build-trend-following-strategy/)
             - [Rekhit Pachanekar and Chainika Thakar: Moving Average Crossover Strategies (BA)](https://blog.quantinsti.com/moving-average-trading-strategies/)
-            - [Categorising the Trading Strategies: The Big Picture by Prodipta Ghosh (BA)](https://www.quantinsti.com/articles/types-trading-strategies/)
         2. Time Series Analysis <a id='time_series_analysis'></a>
             - [Damodar Gujarati: Econometrics by Example (TB)](https://www.amazon.com/-/es/DAMODAR-GUJARATI/dp/9354356117/)
             - [Jeffrey m. Wooldridge: Introductory Econometrics (TB)](https://www.amazon.com/-/es/Jeffrey-M-Wooldridge/dp/9355731078/)
@@ -668,6 +667,7 @@ In case of questions, please write to:
     - [QuantInsti: Algorithmic Trading Workshop 2021 - Learn Algorading Basics in 3 Days (BA)](https://blog.quantinsti.com/algo-trading-webinars-2021/#full-algo-trading-course-learn-algorithmic-trading)
     - [The Future of Trading is Quant: Nitesh Khandelwal on CNBC Arabia (BA)](https://www.quantinsti.com/articles/future-trading-quant-nitesh-khandelwal-cnbc-arabia/)
     - [AI in Trading: Expert Insights on Machine Learning, Strategy Development, and Automation (BA)](https://www.quantinsti.com/articles/ai-in-trading-insights-from-experts/)
+    - [Categorising the Trading Strategies: The Big Picture by Prodipta Ghosh (BA)](https://www.quantinsti.com/articles/types-trading-strategies/)
 6. Backtest Trading Strategies <a id='backtest_trading_strategies'></a>
     1. Excel-Based Backtesting <a id='excel_based_backtesting'></a>
         - SFM-01 (EPAT)
