@@ -631,6 +631,7 @@ In case of questions, please write to:
         - [Quantra: Portfolio Management: Quantitative and Algo Trading Strategies | Explained (RV)](https://youtube.com/playlist?list=PLD7IrLyN7uvKxjW2C3Bnn1Yx4LbOJQfwX&si=bNbv8vDHHu11WKr8)
         - [Chainika Thakar and Mario Pisa: Portfolio Management Of Multiple Strategies Using Python (BA)](https://blog.quantinsti.com/portfolio-management-strategy-python/)
         - [Ajay Pawar: Application of LLMs in Portfolio Management: Creating Thematic Universe Index (BA)](https://blog.quantinsti.com/application-llm-portfolio-management-thematic-index/)
+        - [Mohak Pachisia & Mandeep Kaur: Portfolio Optimization Using Monte Carlo Simulation (BA)](https://blog.quantinsti.com/portfolio-optimization-maximum-return-risk-ratio-python/)
     2. Risk Management <a id='risk_management'></a>
         - PRM-01 (EPAT)
         - [Steve Burns, et al.: The Ultimate Trading Risk Management Guide (TB)](https://www.amazon.com/-/es/dp/B07PCTF8XV/)
