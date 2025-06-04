@@ -494,6 +494,7 @@ In case of questions, please write to:
             - [Chainika Thakar: Trading using LLM: Generative AI & Sentiment Analysis in Finance (BA)](https://blog.quantinsti.com/trading-using-llm/)
             - [Rekhit Pachanekar: DBSCAN Vs K-Means (BA)](https://blog.quantinsti.com/dbscan-vs-kmeans/)
             - [José Carlos Gonzáles Tanaka: A novel drift detection algorithm for machine learning in trading (BA)](https://blog.quantinsti.com/autoregressive-drift-detection-method/)
+            - [Mahavir Bhattacharya: Building Blocks of Bias-Variance Tradeoff for Trading the Financial Markets (BA)](https://blog.quantinsti.com/bias-variance-machine-learning-trading/)
         5. Quantitative Finance <a id='quant_finance'></a>
             - [Mahavir A. Bhattacharya: Laying the Groundwork for Ito's Lemma and Financial Stochastic Models (BA)](https://blog.quantinsti.com/itos-lemma-trading-concepts-guide/)
             - [Mahavir A. Bhattacharya: Ito's Lemma Applied to Stock Trading (BA)](https://blog.quantinsti.com/itos-lemma-applied-stock-trading/)
