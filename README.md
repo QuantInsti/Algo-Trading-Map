@@ -353,7 +353,7 @@ In case of questions, please write to:
             - [Chainika Thakar and Devang Singh: Mean Reversion in Time Series: What it is and Trading Strategies (BA)](https://blog.quantinsti.com/mean-reversion-time-series/)
             - [Ashish Jain: ARIMA vs LSTM Models: A Comparative Study for Stock Price Prediction (BA)](https://blog.quantinsti.com/time-series-lstm-stock-price-prediction-project-ashish-jain/)
             - [Satyapriya Chaudhari: Stationarity: Defining, Detecting, Types, and Transforming Time Series (BA)](https://blog.quantinsti.com/stationarity/)
-            - [Milind Paradkar & Chainika Thakar: Forecasting Stock Prices Using ARIMA Model (BA)](https://blog.quantinsti.com/forecasting-stock-returns-using-arima-model/)
+            - [José Carlos Gonzáles Tanaka: Forecasting Stock Prices Using ARIMA Model (BA)](https://blog.quantinsti.com/forecasting-stock-returns-using-arima-model/)
             - [Vibhu Singh, Varun Divakar and Ashish Garg: Hurst Exponent: Calculation, Values and More (BA)](https://blog.quantinsti.com/hurst-exponent/)
             - [José Carlos Gonzáles Tanaka: AutoRegressive Moving Average (ARMA) models: A Comprehensive Guide (BA)](https://blog.quantinsti.com/autoregressive-moving-average-arma-model/)
             - [José Carlos Gonzáles Tanaka: AutoRegressive Moving Average (ARMA) models: Using Python](https://blog.quantinsti.com/autoregressive-moving-average-arma-model-python/)
