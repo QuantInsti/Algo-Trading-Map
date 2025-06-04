@@ -500,6 +500,7 @@ In case of questions, please write to:
             - [Rekhit Pachanekar: DBSCAN Vs K-Means (BA)](https://blog.quantinsti.com/dbscan-vs-kmeans/)
             - [José Carlos Gonzáles Tanaka: A novel drift detection algorithm for machine learning in trading (BA)](https://blog.quantinsti.com/autoregressive-drift-detection-method/)
             - [Mahavir Bhattacharya: Building Blocks of Bias-Variance Tradeoff for Trading the Financial Markets (BA)](https://blog.quantinsti.com/bias-variance-machine-learning-trading/)
+            - [Mahavir Bhattacharya: Building a Trading Strategy using Bias-Variance Decomposition (BA)](https://blog.quantinsti.com/bias-variance-tradeoff-ml-trading-strategy-pipeline/)
             - [Ishan Shah: Reinforcement Learning in Trading (BA)](https://blog.quantinsti.com/reinforcement-learning-trading/)
         5. Quantitative Finance <a id='quant_finance'></a>
             - [Mahavir A. Bhattacharya: Laying the Groundwork for Ito's Lemma and Financial Stochastic Models (BA)](https://blog.quantinsti.com/itos-lemma-trading-concepts-guide/)
