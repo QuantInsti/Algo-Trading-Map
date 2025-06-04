@@ -343,6 +343,7 @@ In case of questions, please write to:
             - [José Carlos Gonzáles Tanaka: Directional Change in Trading: Indicators, Python Coding, and HMM Strategies (BA)](https://blog.quantinsti.com/directional-change-trading/)
             - [Akshay Chaudhary: Five Indicators To Build Trend-Following Strategies (BA)](https://blog.quantinsti.com/indicators-build-trend-following-strategy/)
             - [Rekhit Pachanekar and Chainika Thakar: Moving Average Crossover Strategies (BA)](https://blog.quantinsti.com/moving-average-trading-strategies/)
+            - [Rekhit Pachanekar: Beginner's Guide to Machine Learning Classification in Python (BA)](https://blog.quantinsti.com/machine-learning-classification-strategy-python/)
         2. Time Series Analysis <a id='time_series_analysis'></a>
             - [Damodar Gujarati: Econometrics by Example (TB)](https://www.amazon.com/-/es/DAMODAR-GUJARATI/dp/9354356117/)
             - [Jeffrey m. Wooldridge: Introductory Econometrics (TB)](https://www.amazon.com/-/es/Jeffrey-M-Wooldridge/dp/9355731078/)
