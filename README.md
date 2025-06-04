@@ -343,7 +343,6 @@ In case of questions, please write to:
             - [José Carlos Gonzáles Tanaka: Directional Change in Trading: Indicators, Python Coding, and HMM Strategies (BA)](https://blog.quantinsti.com/directional-change-trading/)
             - [Akshay Chaudhary: Five Indicators To Build Trend-Following Strategies (BA)](https://blog.quantinsti.com/indicators-build-trend-following-strategy/)
             - [Rekhit Pachanekar and Chainika Thakar: Moving Average Crossover Strategies (BA)](https://blog.quantinsti.com/moving-average-trading-strategies/)
-            - [Rekhit Pachanekar: Beginner's Guide to Machine Learning Classification in Python (BA)](https://blog.quantinsti.com/machine-learning-classification-strategy-python/)
         2. Time Series Analysis <a id='time_series_analysis'></a>
             - [Damodar Gujarati: Econometrics by Example (TB)](https://www.amazon.com/-/es/DAMODAR-GUJARATI/dp/9354356117/)
             - [Jeffrey m. Wooldridge: Introductory Econometrics (TB)](https://www.amazon.com/-/es/Jeffrey-M-Wooldridge/dp/9355731078/)
@@ -503,6 +502,7 @@ In case of questions, please write to:
             - [Mahavir Bhattacharya: Building Blocks of Bias-Variance Tradeoff for Trading the Financial Markets (BA)](https://blog.quantinsti.com/bias-variance-machine-learning-trading/)
             - [Mahavir Bhattacharya: Building a Trading Strategy using Bias-Variance Decomposition (BA)](https://blog.quantinsti.com/bias-variance-tradeoff-ml-trading-strategy-pipeline/)
             - [Ishan Shah: Reinforcement Learning in Trading (BA)](https://blog.quantinsti.com/reinforcement-learning-trading/)
+            - [Rekhit Pachanekar: Beginner's Guide to Machine Learning Classification in Python (BA)](https://blog.quantinsti.com/machine-learning-classification-strategy-python/)
         5. Quantitative Finance <a id='quant_finance'></a>
             - [Mahavir A. Bhattacharya: Laying the Groundwork for Ito's Lemma and Financial Stochastic Models (BA)](https://blog.quantinsti.com/itos-lemma-trading-concepts-guide/)
             - [Mahavir A. Bhattacharya: Ito's Lemma Applied to Stock Trading (BA)](https://blog.quantinsti.com/itos-lemma-applied-stock-trading/)
