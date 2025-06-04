@@ -818,3 +818,4 @@ In case of questions, please write to:
     - [QuantInsti: Top companies that hire a quantitative developer. (RV)](https://youtu.be/L2sG6RPjifs?si=xob_thpPAqbG8SVF)
     - [QuantInsti: How QuantInsti Helps with Job Placements? (RV)](https://youtu.be/uQeqfiRMutw?si=xmckUhDC7eIhjbQB)
     - [Chainika Thakar: Top skills to prepare for a quant interview (BA)](https://blog.quantinsti.com/top-skills-nailing-quant-trader-interview/)
+    - [How to Get a Job at a Hedge Fund (BA)](https://www.quantinsti.com/articles/hedge-fund-jobs/)
