@@ -586,6 +586,7 @@ In case of questions, please write to:
         - [QuantInsti: High Frequency Trading (HFT) in Gulf Countries (RV)](https://youtu.be/jB3SfQu9d6s?si=SXio1-8CquHCe7Qj)
         - [Nitesh Khandelwal: Has conventional traders’ volume decreased after HFT entered in Indian markets? #AlgoTradingAMA (RV)](https://youtu.be/3ClgzylYmLg?si=pilmeq3-areyGTfy)
         - [Chainika Thakar and Anupriya Gupta: History of Algorithmic Trading, HFT and News Based Trading (RV)](https://blog.quantinsti.com/history-algorithmic-trading-hft/)
+        - [Breaking into High-Frequency Trading: Q&A with Rajib Ranjan Borah (BA)](https://www.quantinsti.com/articles/get-into-high-frequency-trading/)
     8. Crypto <a id='crypto'></a>
         - [Quantra: Cryptocurrency Trading Strategies (RV)](https://youtube.com/playlist?list=PLvoal9WEcFgIgaS2GoFazU4JyAnAIhWDk&si=-exnWtySNK1LklEW)
         - [Udisha Alok: Quantitative Crypto Trading | Data Gathering and Analysis Of Cryptocurrencies (RV)](https://www.youtube.com/live/rD7HkJS3yd8?si=d3U6EUypg772WNDN)
