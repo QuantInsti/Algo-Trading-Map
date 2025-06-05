@@ -657,6 +657,7 @@ In case of questions, please write to:
         - [Chainika Thakar: Volatility And Measures Of Risk-Adjusted Return With Python (BA)](https://blog.quantinsti.com/volatility-and-measures-of-risk-adjusted-return-based-on-volatility/)
         - [Chainika Thakar: Unsystematic Risk: Guide to Causes, Types, Calculation, Examples, and How to Protect (BA)](https://blog.quantinsti.com/unsystematic-risk/)
         - [Chainika Thaka, Apoorva Singh and Rekhit Pachanekar: Sharpe Ratio: Calculation, Interpretation and Analysis (BA)](https://blog.quantinsti.com/sharpe-ratio-applications-algorithmic-trading/)
+        - [How to become a risk analyst? (BA)](https://www.quantinsti.com/articles/risk-analyst/)
 5. Practical Quant Insights <a id='practical_quant_insights'></a>
     - [Richard R. Lindsey and Barry Schachter: How I became a Quant (TB)](https://www.amazon.com/-/es/How-Became-Quant-Insights-Streets/dp/0470452579/)
     - [Ernest P. Chan: Algorithmic Trading: Winning Strategies and Their Rationale (TB)](https://www.amazon.com/-/es/Ernie-Chan/dp/1118460146/)
