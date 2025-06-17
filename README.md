@@ -186,6 +186,7 @@ In case of questions, please write to:
         - [Dan Stefanica: A Primer For The Mathematics Of Financial Engineering (TB)](https://www.amazon.com/Mathematics-Financial-Engineering-Advanced-Background/dp/0979757622)
         - [Quantra: Role of Mathematics and Statistics in Trading (RV)](https://youtu.be/IfI9JS7GqIU?si=i65DHYNbBR0DTm6m)
         - [Vivek Krishnamoorthy and Anshul Tayal: Introduction to Statistical Thinking for Smarter Choices and Analysis (BA)](https://blog.quantinsti.com/statistical-thinking/)
+        - [Vivek Krishnamoorthy: Bayesian Inference Methods and Formula Explained (BA)](https://blog.quantinsti.com/bayesian-inference/)
     6. Programming <a id='programming'></a>
         1. Python <a id='python'></a>
             - PRE-01 (EPAT)
