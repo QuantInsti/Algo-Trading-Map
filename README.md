@@ -185,6 +185,7 @@ In case of questions, please write to:
         - [Marek Capiński and Tomasz Zastawniak: Mathematics for Finance: An Introduction to Financial Engineering (TB)](https://www.amazon.com/Mathematics-Finance-Introduction-Engineering-Undergraduate/dp/0857290819)
         - [Dan Stefanica: A Primer For The Mathematics Of Financial Engineering (TB)](https://www.amazon.com/Mathematics-Financial-Engineering-Advanced-Background/dp/0979757622)
         - [Quantra: Role of Mathematics and Statistics in Trading (RV)](https://youtu.be/IfI9JS7GqIU?si=i65DHYNbBR0DTm6m)
+        - [Vivek Krishnamoorthy and Anshul Tayal: Introduction to Statistical Thinking for Smarter Choices and Analysis (BA)](https://blog.quantinsti.com/statistical-thinking/)
     6. Programming <a id='programming'></a>
         1. Python <a id='python'></a>
             - PRE-01 (EPAT)
