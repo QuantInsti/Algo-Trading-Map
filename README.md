@@ -188,6 +188,7 @@ In case of questions, please write to:
         - [Vivek Krishnamoorthy and Anshul Tayal: Introduction to Statistical Thinking for Smarter Choices and Analysis (BA)](https://blog.quantinsti.com/statistical-thinking/)
         - [Vivek Krishnamoorthy: Bayesian Inference Methods and Formula Explained (BA)](https://blog.quantinsti.com/bayesian-inference/)
         - [Varun Divakar: Exploring the Chain Rule with Step-by-Step Examples (BA)](https://blog.quantinsti.com/understanding-chain-rule/)
+        - [Aacashi Nawyndder and Chainika Thakar: Beyond the Hype: What "Independent Events" REALLY Mean for Your Trades (BA)](https://blog.quantinsti.com/independent-events/)
     6. Programming <a id='programming'></a>
         1. Python <a id='python'></a>
             - PRE-01 (EPAT)
