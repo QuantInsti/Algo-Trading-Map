@@ -507,6 +507,7 @@ In case of questions, please write to:
             - [Mahavir Bhattacharya: Building a Trading Strategy using Bias-Variance Decomposition (BA)](https://blog.quantinsti.com/bias-variance-tradeoff-ml-trading-strategy-pipeline/)
             - [Ishan Shah: Reinforcement Learning in Trading (BA)](https://blog.quantinsti.com/reinforcement-learning-trading/)
             - [Rekhit Pachanekar: Beginner's Guide to Machine Learning Classification in Python (BA)](https://blog.quantinsti.com/machine-learning-classification-strategy-python/)
+            - [Aacashi Nawyndder and Vivek Krishnamoorthy: Simple and Multiple Linear Regression in Algorithmic Trading: A Practical Guide for Quants (BA)](https://blog.quantinsti.com/linear-regression/)
         5. Quantitative Finance <a id='quant_finance'></a>
             - [Mahavir A. Bhattacharya: Laying the Groundwork for Ito's Lemma and Financial Stochastic Models (BA)](https://blog.quantinsti.com/itos-lemma-trading-concepts-guide/)
             - [Mahavir A. Bhattacharya: Ito's Lemma Applied to Stock Trading (BA)](https://blog.quantinsti.com/itos-lemma-applied-stock-trading/)
