@@ -675,6 +675,7 @@ In case of questions, please write to:
     - [The Future of Trading is Quant: Nitesh Khandelwal on CNBC Arabia (BA)](https://www.quantinsti.com/articles/future-trading-quant-nitesh-khandelwal-cnbc-arabia/)
     - [AI in Trading: Expert Insights on Machine Learning, Strategy Development, and Automation (BA)](https://www.quantinsti.com/articles/ai-in-trading-insights-from-experts/)
     - [Categorising the Trading Strategies: The Big Picture by Prodipta Ghosh (BA)](https://www.quantinsti.com/articles/types-trading-strategies/)
+    - [QuantInsti: Quant Trader: A Comprehensive Guide (BA)](https://www.quantinsti.com/articles/quantitative-trader/)
 6. Backtest Trading Strategies <a id='backtest_trading_strategies'></a>
     1. Excel-Based Backtesting <a id='excel_based_backtesting'></a>
         - SFM-01 (EPAT)
